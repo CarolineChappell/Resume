@@ -1,0 +1,20 @@
+.logo {
+    width: 50px;
+    top: 20px;
+    left: 50px;
+}
+
+.headshot {
+    width: 300px;
+}
+
+.images {
+    width: 300px;
+    float: left;
+}
+
+h3 {
+    position:relative;
+    float: right;
+    margin: 20px;
+}
