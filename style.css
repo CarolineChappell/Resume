@@ -18,3 +18,15 @@ h3 {
     float: right;
     margin: 20px;
 }
+
+h1 {
+    font-family: "bree-serif";
+}
+
+h2 {
+    font-family: Helvetica, sans-serif;
+}
+
+p {
+    font-family: Helvetica, sans-serif;
+}
